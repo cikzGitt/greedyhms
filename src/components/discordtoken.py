@@ -192,7 +192,7 @@ class upload_tokens:
                 "ind": 131072
             },
             "ACTIVE_DEVELOPER": {
-                "emoji": "<:Active_Dev:1045024909690163210>",
+                "emoji": "<:activedev:1058773598778699817>",
                 "shift": 22,
                 "ind": 4194304
             },
